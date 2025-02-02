@@ -1,0 +1,9 @@
+joblib==1.4.2
+numpy==1.26.4
+opencv-python==4.10.0.84
+pdf417decoder==1.0.8
+pillow==11.1.0
+pylibdmtx==0.1.10
+pyzbar==0.1.9
+pyzxing==1.0.2
+zxing==1.0.3
